@@ -61,3 +61,6 @@ _avec le retour à laligne_\
 | git restore | --staged | | Unstage un ou plusieurs fichiers |
 
 | git branch | -M | Créer ou renommer une branche de travail |
+
+
+modif

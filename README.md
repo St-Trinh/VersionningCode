@@ -2,7 +2,7 @@
 
 ## Efrei 30/10/2022
 
-### Plus petit  H3
+### Plus petit H3
 
 #### encore plus petit H4
 
@@ -14,8 +14,8 @@ _Je suis un super paragraphe en italique_\
 _avec le retour à laligne_\
 **Je suis un paragraphe en gras**
 
-
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Syntax         | Description      |
+| -------------- | ---------------- | -------------- |
+| Header         | Title            |
+| Paragraph      | Text             |
+| Texte à gauche | Texte au milieux | Texte à droite |

@@ -20,11 +20,7 @@ _avec le retour à laligne_\
 | Paragraph      | Text             |
 | Texte à gauche | Texte au milieux | Texte à droite |
 
-
-
 ## Résumé matinée
-
-
 
 | Commande | Options | Fonction |
 
@@ -62,6 +58,6 @@ _avec le retour à laligne_\
 
 | git branch | -M | Créer ou renommer une branche de travail |
 
-
 modif
-de excerciceOctobre 
+de excerciceOctobre
+de main pour les merge avec exerciceOctobre

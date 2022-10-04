@@ -64,3 +64,4 @@ _avec le retour à laligne_\
 
 
 modif
+de excerciceOctobre 

@@ -65,3 +65,4 @@ _avec le retour à laligne_\
 
 modif
 de excerciceOctobre 
+modification de la branch main après celle de la branche exercieOctobre et ensuite merge 
